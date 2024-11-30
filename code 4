@@ -15,7 +15,7 @@ int main(){
                 cout<<arr[j]<<" "<<arr[i]<<endl;
             }
             else{
-               cout<<arr[i]<<" "<<arr[j]<<endl; 
+            //    cout<<arr[i]<<" "<<arr[j]<<endl; 
             }
             }
         }
